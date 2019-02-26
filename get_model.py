@@ -23,7 +23,7 @@ class model():
 
         self.host = 'localhost'
         self.user = 'root'
-        self.passwd = 'Shareck'
+        self.passwd = 'password'
         self.database = 'data'
         self.charset = 'utf8'
 
